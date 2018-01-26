@@ -1,0 +1,14 @@
+{
+  "name": "bot-twitter",
+  "version": "1.0.0",
+  "description": "A simple btwitter bot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Djian",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
